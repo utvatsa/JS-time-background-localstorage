@@ -62,7 +62,7 @@ function setBackGroundMessage(){
 //saving Name or Aim
 function setNameAim(e){
     if(e.type==='keypress'){
-        if(e.which===1 || e.keyCode===1){
+        if(e.which===13 || e.keyCode===13){
             let section=e.target;
             localStorage.setItem(section.id , section.innerText);
             section.blur();
