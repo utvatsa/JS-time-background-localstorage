@@ -7,5 +7,5 @@ Background and Greeting message change as per time of day.
 
 Name and Aim stored in local storage and retrieved each time page is opened.
 
-#Usage-Instructions
+# Usage-Instructions
 Preferred to open using a web-server. Use Live Server extension of Visual Studio Code.
